@@ -1,0 +1,30 @@
+;
+;	ABBUC Magazin Issue 99 Intro
+;
+;	(c) 2009-12-05 JAC! / Peter Dell
+;
+;	My first release after 7 years, based on two effects I created
+;	when... well... when I was young. Since the sprite counter
+;	for the issue number has only 8 pixels, I had to finish it
+;	before "99" overflows - "100" does not fit into 8 pixels.
+;	This finally pushed me after all this time, and I wanted to get it done.
+;	It seems I really need deadlines to get my stuff finished ;-)
+;
+;	Created for and released with the ABBUC Magazin issue 99.
+;	Visit http://www.abbuc.de to join the world's biggest Atari 8-bit club.
+;
+;	Created using WUDSN IDE and ATASM.
+;	WUDSN IDE - the free integrated Atari 8-bit development plugin for Eclipse.
+;	Visit https://www.wudsn.com for details.
+;
+;	Thanks to Nils Feske/505 for arranging the music.
+;	Vote on Pouet:  http://www.pouet.net/prod.php?which=55078.
+;
+;	This intro features:
+;	- 99 one framed softballs, eh sprites, with PM overlay logos
+;	- Full PAL (240 lines) single scanline up-scroll for the balls
+;	- Bouncing single pixel hires up-scroller
+;
+;	So we are one step closer to full HDTV on the Atari ;-)
+;
+	Greetings to all Atari screeners - 8 bits are enough!
